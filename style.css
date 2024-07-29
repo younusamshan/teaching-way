@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#formSumbit{
+    background-color: rgb(124, 3, 237);
+    padding: 100px;
+}
+.heading{
+    text-align: center;
+}
+body {
+    background-image: url(img/22/colorful-gradient-particles-background_23-2148322988.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
